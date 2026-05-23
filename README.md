@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyen Le Bao Dan 👋
-### Aspiring Software Engineer | Backend Developer & Data Enthusiast 🚀
+### Backend Engineer | Aspiring Data Engineer 🚀
 
-I am a Second-year Information Systems student at **University of Information Technology (UIT) - VNU-HCM**. With a strong academic foundation (GPA: 8.46/4.0), I am passionate about building robust backend architectures, optimizing database performance, and exploring the power of Data Engineering.
+I am a Second-year Information Systems student at **University of Information Technology (UIT) - VNU-HCM**. With a strong academic foundation (GPA: 8.46/10.0), I am passionate about building robust backend architectures, optimizing database performance, and exploring the power of Data Engineering.
 
 - 🏫 **Education:** Information Systems at UIT (Class of 2028)
 - 💡 **Interests:** System Architecture, API Design, Database Optimization, and Exploratory Data Analysis (EDA).
