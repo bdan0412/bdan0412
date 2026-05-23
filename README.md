@@ -28,12 +28,14 @@ I am a Second-year Information Systems student at **University of Information Te
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats & Core Tech
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdan0412&show_icons=true&theme=dark&count_private=true" alt="Dan's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdan0412&layout=compact&theme=dark&langs_count=5" alt="Top Languages" height="160px" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdan0412&theme=dark" alt="Dan's Streak Stats" height="160px" />
 </p>
+
 ---
 
 ### 💬 Connect with me
