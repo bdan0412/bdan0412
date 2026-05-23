@@ -20,10 +20,11 @@ I am a Second-year Information Systems student at **University of Information Te
 
 ---
 
-### 📂 Featured Projects (Pinned below 👇)
+### 📂 Featured Projects
 
-*   **Hospital Management System** `Java` `Spring Boot` `Oracle`
-    *   Developed core backend functionalities, optimizing complex queries using Stored Procedures, Triggers, and Functions.
+***Hospital Management System** `Java` `Spring Boot` `Oracle` `DataGrip`
+    *   **Core Backend Development:** Architected and implemented the core workflow including Patient Registration, Appointment Scheduling, and Medical Prescription generation.
+    *   **Performance Tuning:** Optimized heavy SQL queries to reduce response times for fetching high-volume patient history and doctor schedules.
 
 ---
 
