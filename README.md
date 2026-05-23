@@ -31,10 +31,9 @@ I am a Second-year Information Systems student at **University of Information Te
 ### 📊 GitHub Stats & Streak
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdan0412&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Dan's GitHub Stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdan0412&theme=visual_studio_dark" alt="Dan's Streak Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bdan0412&show_icons=true&theme=dark&count_private=true" alt="Dan's GitHub Stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdan0412&theme=dark" alt="Dan's Streak Stats" height="160px" />
 </p>
-
 ---
 
 ### 💬 Connect with me
